@@ -1,0 +1,78 @@
+{
+    {
+        "categories": [
+          {
+            "id": 1,
+            "name": "Temple",
+            "icon": "icon_beach"
+          },
+          {
+            "id": 2,
+            "name": "Culture",
+            "icon": "icon_history"
+          },
+          {
+            "id": 3,
+            "name": "Nature",
+            "icon": "icon_nature"
+          },
+          {
+            "id": 4,
+            "name": "Arts",
+            "icon": "icon_arts"
+          },
+          {
+            "id": 5,
+            "name": "Food",
+            "icon": "icon_restau"
+          },
+          {
+            "id": 6,
+            "name": "Activite",
+            "icon": "icon_sport"
+          },
+          {
+            "id": 7,
+            "name": "Cloths",
+            "icon": "icon_sahara"
+          }
+        ],
+        "recommendations": [
+          {
+            "id": 1,
+            "image": 1,
+            "name": "Tapkeshwar Mahadev Mandir",
+            "place": "Dehradun, Uttarakhand, India",
+            "rating": 4.7
+          },
+          {
+            "id": 2,
+            "image": 2,
+            "name": "Buddha Temple",
+            "place": "Dehradun, Uttarakhand, India",
+            "rating": 4.6
+          },
+          {
+            "id": 3,
+            "image": 3,
+            "name": "Chandrabani Temple",
+            "place": "Dehradun, Uttarakhand, India",
+            "rating": 4.3
+          },
+          {
+            "id": 4,
+            "image": 4,
+            "name": "Raja Ji Tiger Reserve",
+            "place": "Dehradun, Uttarakhand, India",
+            "rating": 4.2
+          },
+          {
+            "id": 5,
+            "image": 5,
+            "name": "Jheel Clement Town",
+            "place": "Dehradun, Uttarakhand, India",
+            "rating": 4.4
+          }
+        ]
+      }
+}
